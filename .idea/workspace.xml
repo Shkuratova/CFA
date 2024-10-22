@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab3">
-      <change beforePath="$PROJECT_DIR$/Lab3-4/Lab3-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3-4/Lab3-4.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab3-4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729594592140</updated>
-      <workItem from="1729594593194" duration="11631000" />
+      <workItem from="1729594593194" duration="12000000" />
     </task>
     <task id="LOCAL-00001" summary="Lab3">
       <option name="closed" value="true" />
@@ -90,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729597319860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab3">
+      <option name="closed" value="true" />
+      <created>1729607604240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607604240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab3-4">
+      <option name="closed" value="true" />
+      <created>1729607718018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607718018</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3" />
+    <MESSAGE value="Lab3-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3-4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
