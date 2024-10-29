@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab6" />
+    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Lab5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/Lab6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Lab6.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +61,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\Projects\CFA\Lab6" />
+      <recent name="D:\Python\Projects\CFA\Lab7" />
       <recent name="D:\Python\Projects\CFA\data" />
+      <recent name="D:\Python\Projects\CFA\Lab6" />
       <recent name="D:\Python\Projects\CFA\Lab5" />
       <recent name="D:\Python\Projects\CFA\Lab3-4" />
-      <recent name="D:\Python\Projects\CFA\Lab2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -83,7 +87,16 @@
       <workItem from="1729594593194" duration="12510000" />
       <workItem from="1729644705371" duration="12000" />
       <workItem from="1729766418149" duration="7975000" />
-      <workItem from="1729836011851" duration="16717000" />
+      <workItem from="1729836011851" duration="17354000" />
+      <workItem from="1729869103281" duration="733000" />
+      <workItem from="1729902739095" duration="358000" />
+      <workItem from="1729906632311" duration="7000" />
+      <workItem from="1729919370137" duration="1847000" />
+      <workItem from="1729949734336" duration="651000" />
+      <workItem from="1730156928985" duration="5353000" />
+      <workItem from="1730166478859" duration="6345000" />
+      <workItem from="1730186837054" duration="614000" />
+      <workItem from="1730195988595" duration="7061000" />
     </task>
     <task id="LOCAL-00001" summary="Lab3">
       <option name="closed" value="true" />
@@ -141,7 +154,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729865483724</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab6">
+      <option name="closed" value="true" />
+      <created>1729865564532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729865564532</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lab6">
+      <option name="closed" value="true" />
+      <created>1729865708156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729865708156</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab6">
+      <option name="closed" value="true" />
+      <created>1729865713048</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729865713048</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab6">
+      <option name="closed" value="true" />
+      <created>1729865773966</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729865773966</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
