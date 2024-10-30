@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab6">
+    <list default="true" id="f4a31b41-41a4-410c-890b-91038304ec2c" name="Changes" comment="Lab8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Lab5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/Lab6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Lab6.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/Projects/CFA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python/Projects/CFA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\Projects\CFA\Lab7" />
+      <recent name="D:\Python\Projects\CFA\Lab8" />
       <recent name="D:\Python\Projects\CFA\data" />
+      <recent name="D:\Python\Projects\CFA\Lab7" />
       <recent name="D:\Python\Projects\CFA\Lab6" />
       <recent name="D:\Python\Projects\CFA\Lab5" />
-      <recent name="D:\Python\Projects\CFA\Lab3-4" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,7 +94,16 @@
       <workItem from="1730156928985" duration="5353000" />
       <workItem from="1730166478859" duration="6345000" />
       <workItem from="1730186837054" duration="614000" />
-      <workItem from="1730195988595" duration="7061000" />
+      <workItem from="1730195988595" duration="7650000" />
+      <workItem from="1730206463076" duration="17000" />
+      <workItem from="1730242312007" duration="1196000" />
+      <workItem from="1730253594244" duration="1271000" />
+      <workItem from="1730276013096" duration="306000" />
+      <workItem from="1730276523894" duration="1989000" />
+      <workItem from="1730278912911" duration="585000" />
+      <workItem from="1730282976573" duration="946000" />
+      <workItem from="1730283940461" duration="4340000" />
+      <workItem from="1730288375856" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="Lab3">
       <option name="closed" value="true" />
@@ -186,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729865773966</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lab7">
+      <option name="closed" value="true" />
+      <created>1730203860568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730203860568</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lab8">
+      <option name="closed" value="true" />
+      <created>1730287844325</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730287844325</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +232,9 @@
     <MESSAGE value="img" />
     <MESSAGE value="Lab5" />
     <MESSAGE value="Lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab6" />
+    <MESSAGE value="Lab7" />
+    <MESSAGE value="Lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
